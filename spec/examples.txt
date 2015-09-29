@@ -1,0 +1,5 @@
+example_id                                         | status | run_time        |
+-------------------------------------------------- | ------ | --------------- |
+./spec/controllers/links_controller_spec.rb[1:1:1] | passed | 0.00505 seconds |
+./spec/controllers/links_controller_spec.rb[1:1:2] | passed | 0.01862 seconds |
+./spec/features/submit_a_link_spec.rb[1:1]         | passed | 0.21308 seconds |

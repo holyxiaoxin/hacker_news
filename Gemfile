@@ -10,6 +10,8 @@ gem "turbolinks"
 
 group :development, :test do
   gem "byebug"
+  gem "rspec-rails"
+  gem "capybara"
 end
 
 group :development do
